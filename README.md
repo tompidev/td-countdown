@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/62479795/146245537-daffd7f1-d529-459a-8b46-89e9075a5012.png)
+![image](https://user-images.githubusercontent.com/62479795/146246610-e21007aa-e139-48b0-8a91-228d75ff5f6e.png)
 
 # TD Countdown
 
