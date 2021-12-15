@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/62479795/146245537-daffd7f1-d529-459a-8b46-89e9075a5012.png)
+
 # TD Countdown
 
 The TD Countdown plugin is a Countdown plugin with custom date and time setting, header text and HTML formatted message display
