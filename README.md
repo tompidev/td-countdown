@@ -1,2 +1,2 @@
-# td-countdown
-TD Countdown plugin to set custom date and time with Heading text and HTML formatted message
+# TD Countdown
+The TD Countdown plugin is a Countdown plugin with custom date and time setting, header text and HTML formatted message display
