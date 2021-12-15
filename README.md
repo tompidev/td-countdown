@@ -58,6 +58,8 @@ The TD Countdown plugin is a Countdown plugin with custom date and time setting,
 * English
 * Hungarian
 
+## Technical details
+
 ### Requirements
 
 * Bludit v3.x
@@ -73,6 +75,8 @@ The TD Countdown plugin is a Countdown plugin with custom date and time setting,
 After successfully upload...
 
 To use the plugin you have to activate it on the Settings / Plugins page in admin area of your website.
+
+## Footnote
 
 ### Demo
 
