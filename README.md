@@ -10,7 +10,7 @@ The TD Countdown plugin is a Countdown plugin with custom date and time setting,
 
   This option is available if your current theme supports Sidebar. If so, it is possible to show or hide the countdown timer
 
-* **Displaying options
+* **Displaying options**
 
   * **Selected page**
 
