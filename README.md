@@ -88,7 +88,9 @@ To accessing the demo admin interface, here is your login data:
 
 **User:** DemoUser **Password:** Demo123
 
-[To visit demo site click here...](http://demo.tompidev.com/admin)
+[To visit demo admin site click here...](http://demo.tompidev.com/admin)
+
+[Click here to see how the plugin Live works...](http://demo.tompidev.com/td-countdown-test-page)
 
 ### Buy me a coffee...
 
