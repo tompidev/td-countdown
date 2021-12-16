@@ -1,0 +1,135 @@
+.countdown-row {
+  margin: 1.25rem 0;
+  text-align: center;
+}
+.countdown-number {
+  padding: 1.25rem;
+  display:inline-block
+  }
+section{
+	padding: 30px 0;
+}
+.display-1 {
+  font-family: 'Teko', sans-serif;
+  font-size: 4.6rem;
+  line-height: 1.1;
+}
+.display-1 > .mbr-iconfont {
+  font-size: 5.75rem;
+}
+.display-2 {
+  font-family: 'Jost', sans-serif;
+  font-size: 3rem;
+  line-height: 1.1;
+}
+.display-2 > .mbr-iconfont {
+  font-size: 3.75rem;
+}
+.display-4 {
+  font-family: 'Jost', sans-serif;
+  font-size: 1.1rem;
+  line-height: 1.5;
+}
+.display-4 > .mbr-iconfont {
+  font-size: 1.375rem;
+}
+.display-5 {
+  font-family: 'Jost', sans-serif;
+  font-size: 2rem;
+  line-height: 1.5;
+}
+.display-5 > .mbr-iconfont {
+  font-size: 2.5rem;
+}
+.display-7 {
+  font-family: 'Jost', sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+.display-7 > .mbr-iconfont {
+  font-size: 1.5rem;
+}
+/* ---- Fluid typography for mobile devices ---- */
+/* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
+/* 100vw - current viewport width */
+/* (48 - 20)  48 == 48rem == 768px, 20 == 20rem == 320px(minimal supported viewport) */
+/* 0.65 - min scale variable, may vary */
+@media (max-width: 992px) {
+  .display-1 {
+    font-size: 3.68rem;
+  }
+}
+@media (max-width: 768px) {
+  .display-1 {
+    font-size: 3.22rem;
+    font-size: calc( 2.26rem + (4.6 - 2.26) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.1 * (2.26rem + (4.6 - 2.26) * ((100vw - 20rem) / (48 - 20))));
+  }
+  .display-2 {
+    font-size: 2.4rem;
+    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.3 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
+  }
+  .display-4 {
+    font-size: 0.88rem;
+    font-size: calc( 1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20))));
+  }
+  .display-5 {
+    font-size: 1.6rem;
+    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
+  }
+  .display-7 {
+    font-size: 0.96rem;
+    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
+  }
+}
+.number-wrap {
+  color: #555555;
+  text-align: center;
+}
+.number {
+  color: #353535;
+}
+.period {
+  display: block;
+}
+.dot {
+  display: none;
+}
+@media (max-width: 767px) {
+  .period {
+    font-size: 0.8rem;
+  }
+}
+.mbr-section-title {
+  text-align: center;
+  color: #232323;
+}
+.mbr-text {
+  text-align: center;
+}
+
+/* Sidebar formatting */
+.countdown-sidebar .countdown-row{
+  margin: 0.25rem 0 !important;
+}
+.countdown-sidebar .countdown-number{
+  padding: 0.5rem 0 !important;
+}
+@media (min-width: 768px) and (max-width: 991.98px){
+  .countdown-sidebar .countdown-number{
+  padding: 0.3rem 0 !important;
+}
+}
+.countdown-sidebar span.display-2{
+  font-size: 1.75rem !important;
+}
+.countdown-sidebar span.display-7{
+  font-size: 0.65rem !important;
+}
+.countdown-sidebar h1{
+  font-size: 2rem !important;
+}

@@ -1,0 +1,45 @@
+{
+	"plugin-data":
+	{
+		"name": "TD Countdown",
+		"description": "Visszaszámláló plugin egyedi dátum- és idő beállítással, fejléc szöveggel és HTML formázott üzenet megjelenítéssel"
+    },
+		"displaying-settings-header": "Megjelenítési beállítások",
+		"sidebar-label": "Megjelenítés az oldalsávon",
+		"sidebar-show": "Megjelenítés",
+		"sidebar-hide": "Elrejtés",
+		"sidebar-hint": " Visszaszámláló megjelenítése az oldalsávon",
+		"show-on-pages-label": "Megjelenítés az alábbi oldalakon",
+		"show-on-pages-all": "Minden oldalon",
+		"show-on-pages-selected": "Kiválasztott oldalon",
+		"show-on-pages-none": "Egyik oldalon se",
+		"show-on-pages-hint": "A visszaszámláló megjelenítése a kiválasztott oldalakon",
+		"select-a-page-label": "Oldal kiválasztása",
+		"select-a-page-hint": "Válaszd ki az oldalt, amelyiken szeretnéd megjeleníteni a visszaszámlálót",
+		"position-in-content-label": "Pozíció a tartalomban",
+		"position-in-content-before": "Tartalom előtt",
+		"position-in-content-after": "Tartalom után",
+		"position-in-content-both": "Tartalom előtt és után",
+		"position-in-content-hint": "A Visszaszámláló megjelenítése a cikken belül a kiválasztott pozícióban.",
+
+		"text-settings-header": "Szöveg beállítások",
+		"content-alignment-label": "Tartalom igazítása",
+		"content-alignment-left": "Balra",
+		"content-alignment-right": "Jobbra",
+		"content-alignment-center": "Középre",
+		"content-alignment-hint": "Itt lehet beállítani a Visszaszámláló szöveges tartalom igzaítását (csak a fejléc és a szöveges üzenet)",
+		"heading-text-size-label": "Fejléc szöveg mérete",
+		"heading-text-size-default": "Alapértelmezett",
+		"heading-text-size-medium": "Közepes",
+		"heading-text-size-big": "Nagy",
+		"heading-text-size-large": "Hatalmas",
+		"heading-text-size-hint": "Ez a fejléc szöveg mérete. Az alapértelmezett akkora méretű, mint amekkora a weboldalon alkalmazott általános betű méret.<br>Közepes = alapértelmezett x2, Nagy = alapértelmezett x3, Hatalmas = alapértelmezett x4",
+		"heding-text-label": "Fejléc szöveg",
+		"heding-text-hint": "Itt adhatsz meg egy rövid szöveget, ami a Visszaszámláló előtt fog mejelenni",
+		"text-message-label": "Szöveges üzenet",
+		"text-message-hint": "Ez a rövid üzenet fog megjelenni a Visszaszámláló alatt. HTML formázás engedélyezett.",
+
+		"date-time-settings-header": "Dátum és Idő beállítások",
+		"date-time-settings-date": "Dátum",
+		"date-time-settings-hint": "Dátum formátum ÉÉÉÉ/HH/NN pl. 2032/12/24. Ez alapján fog megjelenni a Visszaszámláló."
+}

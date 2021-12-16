@@ -1,0 +1,45 @@
+{
+	"plugin-data":
+	{
+		"name": "TD Countdown",
+		"description": "Countdown plugin with custom date and time setting, header text and HTML formatted message display"
+	},
+	"displaying-settings-header": "Displaying settings",
+	"sidebar-label": "Show on Sidebar",
+	"sidebar-show": "Show",
+	"sidebar-hide": "Hide",
+	"sidebar-hint": "Displays the Countdown on the sidebar",
+	"show-on-pages-label": "Show Countdown on this pages",
+	"show-on-pages-all": "All pages",
+	"show-on-pages-selected": "Selected page",
+	"show-on-pages-none": "None of them",
+	"show-on-pages-hint": "Displaying the Countdown on the specified pages",
+	"select-a-page-label": "Select a page",
+	"select-a-page-hint": "Select the page where you want the Countdown plugin to display",
+	"position-in-content-label": "Position in the content",
+	"position-in-content-before": "Before content",
+	"position-in-content-after": "After content",
+	"position-in-content-both": "Before and after content",
+	"position-in-content-hint": "Display the Countdown in the content in the selected position.",
+
+	"text-settings-header": "Text settings",
+	"content-alignment-label": "Content alignment",
+	"content-alignment-left": "Left",
+	"content-alignment-right": "Right",
+	"content-alignment-center": "Center",
+	"content-alignment-hint": "Here you can set the alignment of the Countdown text content (heading and text message only)",
+	"heading-text-size-label": "Heading text size",
+	"heading-text-size-default": "Default",
+	"heading-text-size-medium": "Medium",
+	"heading-text-size-big": "Big",
+	"heading-text-size-large": "Large",
+	"heading-text-size-hint": "This is the size of the heading text. The default is the size that is applied to plain text throughout the site.<br>Medium: default x2, big: default x3, large: default x4",
+	"heding-text-label": "Heading text",
+	"heding-text-hint": "Here you can give a short heading text whats will append before the counter",
+	"text-message-label": "Text message",
+	"text-message-hint": "This short message will be displayed below the counter. HTML formatting allowed.",
+
+	"date-time-settings-header": "Date and Time settings",
+	"date-time-settings-date": "Date",
+	"date-time-settings-hint": "The date format is YYYY/MM/DD eg. 2032/12/24. Based on this, the Countdown will appear."
+}
