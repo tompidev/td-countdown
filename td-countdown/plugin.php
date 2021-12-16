@@ -255,7 +255,7 @@ class pluginCountdown extends Plugin
 		// if($this->getValue('countdownPosition')){
 		return '
 		<link rel="stylesheet" type="text/css" href="' . HTML_PATH_CORE_CSS . 'line-awesome/css/line-awesome-font-awesome.min.css">
-		<link rel="stylesheet" type="text/css" href="' . DOMAIN_PLUGINS . 'countdown/countdown.css">';
+		<link rel="stylesheet" type="text/css" href="' . DOMAIN_PLUGINS . 'td-countdown/countdown.css">';
 		// }
 	}
 
@@ -313,7 +313,7 @@ class pluginCountdown extends Plugin
 	public function siteBodyEnd()
 	{
 		$jquery = Theme::jquery();
-		$jquery .= '<script src="' . DOMAIN_PLUGINS . 'countdown/jquery.countdown.min.js"></script>';
+		$jquery .= '<script src="' . DOMAIN_PLUGINS . 'td-countdown/jquery.countdown.min.js"></script>';
 		return $jquery;
 	}
 }
