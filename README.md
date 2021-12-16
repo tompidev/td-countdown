@@ -80,6 +80,8 @@ To use the plugin you have to activate it on the Settings / Plugins page in admi
 
 ## Footnote
 
+This plugin based on [Final Countdown for JQuery](http://hilios.github.io/jQuery.countdown/) by Hilios.
+
 ### Demo
 
 To accessing the demo admin interface, here is your login data:
